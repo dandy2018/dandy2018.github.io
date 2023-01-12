@@ -1,0 +1,29 @@
+/* Navbar */
+.nav-item {
+  margin-right: 4ch !important;
+}
+
+/* Tentang */
+.rounded-circle {
+  width: 20%;
+}
+
+/* Jumbotron */
+.jumbotron {
+  position: relative;
+  background: #000 url("img/background.jpg") center center;
+  /* width: 100%; */
+  height: 438px;
+  background-size: cover;
+  overflow: hidden;
+}
+.rounded-circle {
+  position: relative;
+  width: 234px;
+  height: 234px;
+}
+
+/* Kontak */
+.form-kontak {
+  width: 65%;
+}
